@@ -1,0 +1,60 @@
+<view class='content'>
+   <view class='zan_content'>
+      <view class='info'>
+         <image src='../image/self1.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info'>
+          <image src='../image/self1.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info'>
+          <image src='../image/self1.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info'>
+          <image src='../image/self2.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info'>
+          <image src='../image/self2.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info'>
+          <image src='../image/self2.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view> 
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+      <view class='info' style='border:hidden'>
+          <image src='../image/self2.png'></image>
+         <view class='center_content'>
+           <view class='top'>夏晓迪</view>
+           <view class='bottom'>赞了你的《猴子摘桃》</view>
+         </view>
+         <view class='time'>今天11：34</view>
+      </view>
+   </view>
+ </view>
